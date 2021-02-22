@@ -1,0 +1,8 @@
+name: PiglinExtension
+version: ${project.version}
+main: tk.yeetyoshi.piglinextension.PiglinExtension
+api-version: 1.16
+commands:
+  stats:
+    usage: /<command>
+    description: General Piglin Trouble Statistics
